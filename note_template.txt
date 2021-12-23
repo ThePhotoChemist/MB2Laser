@@ -1,0 +1,6 @@
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.08756177;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle7"
+       cx="X_POSITION"
+       cy="Y_POSITION"
+       r="1.4562192" />
